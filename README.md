@@ -41,5 +41,10 @@ Tôi đang tìm kiếm cơ hội làm việc trong môi trường chuyên nghi�
 
 ### 📫 Connect with me
 
-* 💼 **LinkedIn:** [linkedin.com/in/hoang-ailinh](www.linkedin.com/in/linh-nguyễn-hoàng-ái-81790b369)
-* 📧 **Email:** [hoangailinh11062004@gmail.com]
+* 💼 **LinkedIn:** [Nguyen Hoang Ai Linh](https://www.linkedin.com/in/linh-nguyễn-hoàng-ái-81790b369)
+* 📧 **Email:** [hoangailinh11062004@gmail.com](mailto:hoangailinh11062004@gmail.com)
+
+<p align="left">
+<a href="https://www.linkedin.com/in/linh-nguyễn-hoàng-ái-81790b369" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" height="30" /></a>
+<a href="mailto:hoangailinh11062004@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" height="30" /></a>
+</p>
