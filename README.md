@@ -20,5 +20,5 @@ Machine Learning · Deep Learning · Probability & Statistics · Linear Algebra
 Git · VS Code · Jupyter Notebook  
 
 ### Contact
-LinkedIn: https://www.linkedin.com/in/linh-nguyễn-hoàng-ái-81790b369  
-Email: hoangailinh11062004@gmail.com
+- 🔗 [LinkedIn](https://www.linkedin.com/in/linh-nguyễn-hoàng-ái-81790b369)
+- ✉️ [Email](mailto:hoangailinh11062004@gmail.com)
