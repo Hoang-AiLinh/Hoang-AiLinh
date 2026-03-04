@@ -1,6 +1,6 @@
 ## Nguyen Hoang Ai Linh
 
-Data Science Student | Aspiring Data Analyst
+Data Science Student
 
 I focus on data analysis with a strong foundation in data processing, visualization, and machine learning.  
 My goal is to apply data-driven approaches to solve real-world business problems.
