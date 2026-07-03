@@ -1,24 +1,32 @@
 ## Nguyen Hoang Ai Linh
 
-Data Science Student
+**Data Science Student**
 
-I focus on data analysis with a strong foundation in data processing, visualization, and machine learning.  
-My goal is to apply data-driven approaches to solve real-world business problems.
+I am currently studying Information Technology with a major in Data Science.
+I am interested in Data Analytics and Data Engineering, and I am building my skills through academic projects and self-learning.
+
+I have basic experience in data cleaning, data analysis, visualization, machine learning, and simple data pipeline development.
+I am willing to learn, improve, and apply my knowledge to practical data-related problems.
 
 ### Skills
 
-**Data Analysis & Visualization**  
-Python · SQL · Pandas · Power BI · Tableau · Excel  
+**Data Analysis & Visualization**
+Python · SQL · Pandas · NumPy · Excel · Power BI · Tableau
 
-**Machine Learning**  
-Scikit-learn · NumPy  
+**Machine Learning**
+Scikit-learn · Machine Learning Basics · Model Training
 
-**Core Knowledge**  
-Machine Learning · Deep Learning · Probability & Statistics · Linear Algebra  
+**Data Engineering & Backend Basics**
+Apache Spark · Kafka · PostgreSQL · Flask · Docker
 
-**Tools**  
-Git · VS Code · Jupyter Notebook  
+**Core Knowledge**
+Probability & Statistics · Linear Algebra · Data Preprocessing · Analytical Thinking
+
+**Tools**
+Git · VS Code · Jupyter Notebook
 
 ### Contact
-- 🔗 [LinkedIn](https://www.linkedin.com/in/linh-nguyễn-hoàng-ái-81790b369)
-- ✉️ [Email](mailto:hoangailinh11062004@gmail.com)
+
+* 🔗 [LinkedIn](https://www.linkedin.com/in/linh-nguyễn-hoàng-ái-81790b369)
+* ✉️ [Email](mailto:hoangailinh11062004@gmail.com)
+
